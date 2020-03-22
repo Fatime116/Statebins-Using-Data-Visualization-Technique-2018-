@@ -1,6 +1,6 @@
 
 
-title: "Statebins Using Data Visualization Technique [2019]"
+title: "Statebins Using Data Visualization Technique [2018]"
 
 date: "12/12/2018"
 
